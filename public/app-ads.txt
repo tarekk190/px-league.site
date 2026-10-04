@@ -1,1 +1,1 @@
-# Add the exact publisher declaration provided by the PX League AdMob account before publishing.
+google.com, pub-8095750573367524, DIRECT, f08c47fec0942fa0

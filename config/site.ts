@@ -3,7 +3,7 @@ export const siteConfig = {
   title: "PX League | توقّع النتائج ونافس على الصدارة",
   description:
     "توقّع نتائج مباريات كرة القدم، أنشئ دورياتك الخاصة، وانضم إلى البطولات واجمع النقاط ونافس على صدارة الترتيب مع PX League.",
-  url: "",
+  url: "https://px-league.site",
   googlePlayUrl: "https://play.google.com/store/apps/details?id=com.pxleague.app",
   appStoreUrl: "https://apps.apple.com/sa/app/px-league/id6806053831?l=ar",
   supportEmail: "",
